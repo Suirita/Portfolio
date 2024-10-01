@@ -42,7 +42,7 @@ export const projectsData = [
       "MongoDB",
     ],
     imageUrl: Desky,
-    pageUrl: "https://desky-8wl9.vercel.app/en",
+    pageUrl: "https://desky-eight.vercel.app/en",
   },
   {
     title: "CarHub",
